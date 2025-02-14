@@ -1,1 +1,0 @@
-# Namcombank | Banking Services System
